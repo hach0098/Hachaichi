@@ -39,6 +39,8 @@ main > p:nth-child(2) {
 
 header {
     font-size: 32px;
+    background-color: black;
+    height: 100vh;
 }
 h1 { 
     font-size: 2rem;
@@ -50,4 +52,8 @@ h2 {
 
 p { 
     font-size: 1rem;
+}
+/*wrapper is set to 50% of v width */
+.wrapper {
+    width: 50vw;
 }
